@@ -1,22 +1,12 @@
-"# e-commerce" 
+"# shopping-cart-order-processing" 
 
-E-commerce System in PHP MySQL with Source Code.Admin Section,Member Area & Front End
+Sopping Cart & Order Processing in PHP & MySQL
 ======================================================================================
 
-In this  tutorial I am going to discuss about E-commerce System in PHP MySQL with Source Code.
-Here I will describe how shopping cart,Order Processing System,Admin section,Member Area and front end works.
+Shopping cart software is a piece of e-commerce software on a web server that allows visitors to an Internet site to select items for eventual purchase. The software allows online shopping customers to accumulate a list of items for purchase.
 
-in Admin we will manage all kinds of data including products,slides,featured products,CMS and others Feartures.
+An order processing system captures order data from customer service employees or from customers directly, stores the data in a central database and sends order information to the accounting and shipping departments, if applicable.
 
-in Member Area How the member can login register and buy products and can see the status of their oders,delivery,cancellation,completion of their Orders.
-
-The Front end is represented to display products & its related data.
-
-Database : ecommerce.sql
-
-Set database credential in common/config.php
-
-and folder path (if localhost) in tempalte/header.php 
 
 
 Youtube Tutorial : https://youtu.be/HPm-7UUGqtE
